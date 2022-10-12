@@ -1,0 +1,21 @@
+
+
+#focim{
+    font-family: monospace;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color:rgb(16, 137, 250);
+    position: absolute;
+    top: 20px;
+    left: 900px;
+}
+
+#fejlec{
+
+
+    height: 100px;
+    background-image: url('fejlechatter.png');
+
+
+}
