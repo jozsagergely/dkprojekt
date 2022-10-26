@@ -9,8 +9,9 @@ body{
     color:rgb(17, 182, 223);
     font-weight: bold;
     position: absolute;
-    top: 20px;
+    top: 30px;
     left: 900px;
+	font-size: 30px;
 }
 
 #fejlec{
@@ -161,6 +162,19 @@ label span {
 	border-radius: 3px;
 }
 
+#legord{
+	position: absolute;
+	top: 20px;
+}
 
+#szoveg{
+	color:rgb(17, 182, 223);
+}
 
-
+#leiras{
+	width: 500px;
+	background-color:rgb(73, 73, 73) ;
+	opacity: 0.8;
+	border-radius: 20px;
+	padding: 10px;
+}
