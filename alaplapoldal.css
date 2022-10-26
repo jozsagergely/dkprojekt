@@ -6,12 +6,34 @@ h1{
 
     text-align:center;
     font-family:monospace;
+    text-decoration: underline;
 }
 .olcso{
 
-    float:left
+    float:left;
+    width:400px;
+
+
+    
+}
+
+
+.kozepesalaplap{
+    position:absolute;
+    left:750px;
+    top:100px;
+    
+
+
+    
 }
 .draga{
 
-    float:right;
+    position: absolute;
+    width:500px;
+    top:130px;
+    left:1400px;
+   
+    
+
 }
