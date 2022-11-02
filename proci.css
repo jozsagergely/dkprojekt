@@ -1,4 +1,18 @@
+body{
+    background-image: url("hatter.png");
+}
 h1{
     text-align: center;
     text-decoration: underline;
+}
+a{
+    text-align: center;
+}
+h2{
+    margin: auto;
+    text-align: center;
+}
+.pr{
+    margin: auto;
+    text-align: center;
 }
