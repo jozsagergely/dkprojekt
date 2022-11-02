@@ -20,7 +20,7 @@ h1{
 
 .kozepesalaplap{
     position:absolute;
-    left:750px;
+    left:570px;
     top:100px;
     
 
@@ -32,8 +32,39 @@ h1{
     position: absolute;
     width:500px;
     top:130px;
-    left:1400px;
+    left:1100px;
    
     
+
+}
+
+.elso{
+    
+    position:absolute;
+    top:500px;
+    left:25px;
+    
+
+
+
+}
+
+.masodik{
+    
+    position:absolute;
+    top:600px;
+    left:600px;
+
+    
+
+
+
+}
+.harmadik{
+    float:right;
+    position: relative;
+    top:400px;
+
+
 
 }
