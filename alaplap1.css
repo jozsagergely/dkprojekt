@@ -1,0 +1,28 @@
+body{
+
+
+    background-image: url(hatter.png);
+}
+h1{
+    text-align:center;
+    font-family:monospace;
+    text-decoration: underline;
+    color:rgb(17, 182, 223);
+
+}
+p{
+
+    font-family:monospace;
+    color:rgb(17, 182, 223);
+    position: absolute;
+    top:10%;
+    
+    
+    text-align:justify;
+    
+}
+.olcso{
+    width:600px;
+
+
+}
