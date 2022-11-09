@@ -1,9 +1,12 @@
 body{
     background-image: url("hatter.png");
+    color:rgb(17, 182, 223);
 }
 h1{
     text-align: center;
     text-decoration: underline;
+    color:rgb(17, 182, 223);
+    font-family: monospace;
 }
 a{
     text-align: center;
@@ -11,6 +14,9 @@ a{
 h2{
     margin: auto;
     text-align: center;
+    color:rgb(17, 182, 223);
+    font-family: monospace;
+
 }
 .pr{
     margin: auto;
