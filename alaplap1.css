@@ -2,6 +2,7 @@ body{
 
 
     background-image: url(hatter.png);
+    background-repeat: no-repeat;
 }
 h1{
     text-align:center;
@@ -43,3 +44,23 @@ position: absolute;
 
 
 }
+
+button{
+
+   
+    position: absolute;
+    top:800px;
+    left:20px;
+    
+}
+
+#gomb{
+    position: absolute;
+    top:850px;
+    left:20px;
+
+
+
+
+}
+
